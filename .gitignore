@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+
+# Ambientes e segredos
+.env
+.env.local
+*.log
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.bak
+Thumbs.db
+.DS_Store
